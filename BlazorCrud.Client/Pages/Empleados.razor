@@ -44,10 +44,10 @@
                     <td>@item.FechaContrato.ToString("dd/MM/yyyy")</td>
                     <td>
                         <a class="btn btn-primary btn-sm" href="empleado/@item.IdEmpleado">
-                            <i class="oi oi-pencil"></i>
+                            Editar@* <i class="oi oi-pencil"></i> *@
                          </a>
                          <button type="button" class="btn btn-danger btn-sm ms-2" @onclick="(() => Eliminar(item.IdEmpleado))">
-                            <i class="oi oi-trash"></i>
+                            Eliminar@* <i class="oi oi-trash"></i> *@
                          </button>
 
                     </td>
