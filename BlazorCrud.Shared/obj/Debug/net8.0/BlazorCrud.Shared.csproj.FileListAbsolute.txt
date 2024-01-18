@@ -1,0 +1,11 @@
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\bin\Debug\net8.0\BlazorCrud.Shared.deps.json
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\bin\Debug\net8.0\BlazorCrud.Shared.dll
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\bin\Debug\net8.0\BlazorCrud.Shared.pdb
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\BlazorCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\BlazorCrud.Shared.AssemblyInfoInputs.cache
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\BlazorCrud.Shared.AssemblyInfo.cs
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\BlazorCrud.Shared.csproj.CoreCompileInputs.cache
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\BlazorCrud.Shared.dll
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\refint\BlazorCrud.Shared.dll
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\BlazorCrud.Shared.pdb
+D:\ProyectosAlcaldia\CrudBlazor\SolucionBlazor\BlazorCrud.Shared\obj\Debug\net8.0\ref\BlazorCrud.Shared.dll
